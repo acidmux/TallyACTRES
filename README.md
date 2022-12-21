@@ -5,7 +5,7 @@ Activate tally with a genuine license
 
 then,
 
-Run TallyACTRES.exe
+Run TallyACTRES.exe [Download](https://github.com/acidmux/TallyACTRES/releases/tag/Release)
 
 All done!
 
